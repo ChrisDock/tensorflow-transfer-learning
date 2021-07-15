@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>002223b533d730f5.jpg</filename>
+  <path>/home/chris/PycharmProjects/fachpra/Custom-Object-Detector-Workspace/Project/images/car/images/002223b533d730f5.jpg</path>
+  <source>
+    <database>OpenImages</database>
+  </source>
+  <size>
+    <width>1024</width>
+    <height>683</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>613</xmin>
+      <xmax>792</xmax>
+      <ymin>526</ymin>
+      <ymax>604</ymax>
+    </bndbox>
+  </object>
+</annotation>

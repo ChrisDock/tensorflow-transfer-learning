@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>0094d2cb053e4506.jpg</filename>
+  <path>/home/chris/PycharmProjects/fachpra/Custom-Object-Detector-Workspace/Project/images/dog/images/0094d2cb053e4506.jpg</path>
+  <source>
+    <database>OpenImages</database>
+  </source>
+  <size>
+    <width>1024</width>
+    <height>679</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>dog</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>273</xmin>
+      <xmax>521</xmax>
+      <ymin>511</ymin>
+      <ymax>648</ymax>
+    </bndbox>
+  </object>
+</annotation>

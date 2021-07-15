@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>002453dd6bee632f.jpg</filename>
+  <path>/home/chris/PycharmProjects/fachpra/Custom-Object-Detector-Workspace/Project/images/cat/images/002453dd6bee632f.jpg</path>
+  <source>
+    <database>OpenImages</database>
+  </source>
+  <size>
+    <width>768</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cat</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>170</xmin>
+      <xmax>656</xmax>
+      <ymin>580</ymin>
+      <ymax>885</ymax>
+    </bndbox>
+  </object>
+</annotation>

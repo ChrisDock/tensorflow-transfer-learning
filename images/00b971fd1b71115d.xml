@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>00b971fd1b71115d.jpg</filename>
+  <path>/home/chris/PycharmProjects/fachpra/Custom-Object-Detector-Workspace/Project/images/bird/images/00b971fd1b71115d.jpg</path>
+  <source>
+    <database>OpenImages</database>
+  </source>
+  <size>
+    <width>922</width>
+    <height>768</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bird</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>70</xmin>
+      <xmax>705</xmax>
+      <ymin>157</ymin>
+      <ymax>628</ymax>
+    </bndbox>
+  </object>
+</annotation>

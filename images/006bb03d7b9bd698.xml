@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>006bb03d7b9bd698.jpg</filename>
+  <path>/home/chris/PycharmProjects/fachpra/Custom-Object-Detector-Workspace/Project/images/train/images/006bb03d7b9bd698.jpg</path>
+  <source>
+    <database>OpenImages</database>
+  </source>
+  <size>
+    <width>1024</width>
+    <height>768</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>train</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>30</xmin>
+      <xmax>619</xmax>
+      <ymin>328</ymin>
+      <ymax>583</ymax>
+    </bndbox>
+  </object>
+</annotation>

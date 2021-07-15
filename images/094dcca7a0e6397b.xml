@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>094dcca7a0e6397b.jpg</filename>
+  <path>/home/chris/PycharmProjects/fachpra/Custom-Object-Detector-Workspace/Project/images/fish/images/094dcca7a0e6397b.jpg</path>
+  <source>
+    <database>OpenImages</database>
+  </source>
+  <size>
+    <width>1024</width>
+    <height>685</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>fish</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>157</xmin>
+      <xmax>835</xmax>
+      <ymin>47</ymin>
+      <ymax>476</ymax>
+    </bndbox>
+  </object>
+</annotation>
